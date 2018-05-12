@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2680
     wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18340#L-ami-Fritz
 gutenberg_bookshelf:
 - FR Littérature
 - Opera
